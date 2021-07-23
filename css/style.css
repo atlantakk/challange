@@ -1,0 +1,73 @@
+body {
+    background: rgb(255, 254, 254);
+    font-size: 70px;
+    cursor: zoom-out;
+    
+   
+
+
+}
+.width {
+    font-size: 20px;
+}
+
+.content{
+    border: 1px solid rgb(249, 249, 252);
+    height: 1000px;
+    width: 500px;
+    font-size: 20px;
+    float: left;
+    background: rgb(226, 233, 235);
+}
+.sidebar {
+    background: rgb(243, 240, 240);
+    font-size: 30px;
+    
+}
+.test {
+    position: absolute;
+    top: 100%;
+    font-size: 30px;
+    margin: 250px 0px 0px 500px;
+    color: rgb(111, 114, 114);
+}
+.test-1 {
+    position: absolute;
+    top: 100%;
+    font-size: 30px;
+    margin: 250px 0px 0px 1800px;
+    color: rgb(94, 7, 105);
+}
+.footer {
+    background: rgb(226, 233, 235);
+    height: 200px;
+    margin-top: 10px;
+    font-size: 30px;
+    margin: 935px 0px 0px 0px;
+
+}
+.test-2 {
+    position: absolute;
+    top: 100%;
+    margin: 400px 0px 0px 1900px;
+    color: rgb(94, 7, 105);
+
+}
+
+.test-3 {
+    position: absolute;
+    top: 100%;
+    margin: 400px 0px 0px 2100px;
+    background-color: rgb(163, 49, 207);
+    
+}
+.settings{
+    position: absolute;
+    top: 100%;
+    margin: 365px 0px 0px 2250px;
+}
+.settings1{
+    position: absolute;
+    top: 100%;
+    margin: 365px 0px 0px 2340px;
+}
